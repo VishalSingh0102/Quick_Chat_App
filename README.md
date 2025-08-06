@@ -29,4 +29,9 @@ This project demonstrates how to build and deploy a scalable, real-time messagin
 
 ---
 
+## 🌐 Live Demo
+
+🔗 https://chat-app-eta-bice.vercel.app/login
+
+
 
